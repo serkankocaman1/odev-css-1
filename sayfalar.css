@@ -1,0 +1,25 @@
+body{
+    position: relative;
+    text-align: center;
+    list-style-position: inside;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+color: red;
+}
+h2{
+    color:blueviolet;
+}
+h3{
+    color: burlywood;
+}
+.content-hakkimizda {
+    text-align: left;
+    
+}
+
+img{
+    width: 400px;
+    height: 500px;
+}
